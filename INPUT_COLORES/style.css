@@ -1,0 +1,9 @@
+.coloresContainer{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
